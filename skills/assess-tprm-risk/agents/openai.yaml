@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assess TPRM Risk"
+  short_description: "Decide treatment from documented risk"
+  default_prompt: "Use $assess-tprm-risk to synthesize these findings into residual risk, treatment options, and an approval-ready decision record."

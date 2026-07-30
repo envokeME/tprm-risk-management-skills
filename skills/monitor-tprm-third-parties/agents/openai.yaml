@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monitor TPRM Third Parties"
+  short_description: "Design ongoing third-party monitoring"
+  default_prompt: "Use $monitor-tprm-third-parties to create a tier-based monitoring plan and escalation triggers for this vendor."

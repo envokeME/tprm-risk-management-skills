@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review TPRM Evidence"
+  short_description: "Evaluate vendor evidence and gaps"
+  default_prompt: "Use $review-tprm-evidence to review these vendor documents and identify supported conclusions, gaps, and follow-ups."

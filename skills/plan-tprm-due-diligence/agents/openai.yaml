@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan TPRM Due Diligence"
+  short_description: "Build risk-based diligence plans"
+  default_prompt: "Use $plan-tprm-due-diligence to create a risk-based evidence request and review plan for this third party."

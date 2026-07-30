@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scope TPRM Engagement"
+  short_description: "Tier third parties from intake facts"
+  default_prompt: "Use $scope-tprm-engagement to assess this third-party intake and assign a defensible inherent-risk tier."

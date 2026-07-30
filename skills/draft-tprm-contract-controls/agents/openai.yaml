@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draft TPRM Contract Controls"
+  short_description: "Translate risk into contract requirements"
+  default_prompt: "Use $draft-tprm-contract-controls to draft a risk-based security and resilience requirements schedule for counsel review."

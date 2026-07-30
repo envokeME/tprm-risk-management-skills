@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage TPRM Renewal and Exit"
+  short_description: "Reassess renewals and control exits"
+  default_prompt: "Use $manage-tprm-renewal-exit to prepare a renewal reassessment or controlled third-party exit plan."

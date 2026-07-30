@@ -1,0 +1,4 @@
+interface:
+  display_name: "Govern TPRM Program"
+  short_description: "Design TPRM governance and reporting"
+  default_prompt: "Use $govern-tprm-program to improve this TPRM operating model, inventory, metrics, and oversight."
